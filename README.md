@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ihsendr/](https://www.linkedin.com/in/ihsendr/)
 
-<a align="center" href="https://app.daily.dev/ihssenedr"><img src="https://api.daily.dev/devcards/8554640fbed742fc88f89da77ae631d4.png?r=d4p" width="400" alt="Drine Ihsen's Dev Card"/></a>
+<div align="center">
+<a  href="https://app.daily.dev/ihssenedr"><img src="https://api.daily.dev/devcards/8554640fbed742fc88f89da77ae631d4.png?r=d4p" width="400" alt="Drine Ihsen's Dev Card"/></a>
+
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
