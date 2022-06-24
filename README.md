@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m  a software engineer at **[Umanis](https://www.umanis.com/en)
+- 🔭 I’m  a software engineer at **[Umanis](https://www.umanis.com/en)**
 - 🌱 I’m currently learning **Continuous integration and Continuous delivery**
 
 - 📫 How to reach me **ihsene.drine@gmail.com**
