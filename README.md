@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ihsen Drine</h1>
 <div align="center">
-<img src="https://github.com/ihssenedr/ihssenedr/blob/main/123456.png" width="400" alt="Drine ihssene's Dev Card"/>
+<img src="https://github.com/ihssenedr/ihssenedr/blob/main/123456.png" alt="Drine ihssene's"/>
 </div>
 
 Here are some ideas to get you started:
