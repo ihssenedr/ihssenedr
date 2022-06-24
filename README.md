@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsen Drine</h1>
-<h3 align="center"> I'am a Software Engineer who is passionate about building tech, teaching and learning new technologies </h3>
-![banner](123456.png)
-
+<div align="center">
+<img src="https://github.com/ihssenedr/ihssenedr/blob/main/123456.png" width="400" alt="Drine ihssene's Dev Card"/>
+</div>
 
 Here are some ideas to get you started:
 
