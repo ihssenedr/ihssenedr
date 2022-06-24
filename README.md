@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihsen Drine</h1>
-<h3 align="center"> I am junoir Data Scientist and software developer. </h3>
+<h3 align="center"> I'am a Software Engineer who is passionate about building tech, teaching and learning new technologies </h3>
 
 
 
