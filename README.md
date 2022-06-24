@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for new **challenges** and **opportunities**
-- 🌱 I’m currently learning **DataWarehouse and data engineering**
+- 🔭 I’m  a software engineer at **[Umanis](https://www.umanis.com/en)
+- 🌱 I’m currently learning **Continuous integration and Continuous delivery**
 
 - 📫 How to reach me **ihsene.drine@gmail.com**
 
