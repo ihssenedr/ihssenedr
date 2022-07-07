@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m  a software engineer at **[Umanis](https://www.umanis.com/en)**
-- 🌱 I’m currently learning **Continuous integration and Continuous delivery**
 - :octocat: I’m currently working on [resto-nestjs-postgres-API](https://github.com/ihssenedr/resto-nestjs-postgres-API)
 
 - 📫 How to reach me **ihsene.drine@gmail.com**
